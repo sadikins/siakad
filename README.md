@@ -1,5 +1,7 @@
 # Sistem Informasi Akademik Sekolah SMK
 
+Pertanyaan Perancangan sistem informasi
+
 1. Apa aplikasi/sistem yang mau dibuat ?
    sistem informasi akademik smk
 
@@ -47,13 +49,6 @@
    - siswa_kelas (id_siswakelas, id_siswa, id_kelas)
    - mengajar (id_mengajar, id_guru, id_tahun, id_mapel, id_kelas, kkm, semester)
    - nilai (id_nilai, id_mengajar, id_siswa_kelas, h1, h2, h3, h4, h5 ,6 h7, h8, rph, pts, hpap, prep, k1,k2,k3,k4,k5,k6, k7, k8, hpak, prek)
-
-Guru
-Geografi --> al biruni --> 2020/2021 2021/2022 ptolemeus
-Geografi --> ibnu kholdun
-
-setiap siswa setiap tahun memiliki data nilai berbeda (kenaikan kelas)
-sehingga minimal harus ada 3 nilai saat menempuh pendidikan selama tiga tahun di smk
 
 ## Screenshot
 
