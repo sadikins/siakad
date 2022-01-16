@@ -1,9 +1,5 @@
 # Sistem Informasi Akademik Sekolah SMK
 
-============================================
-Pertanyaan Perancangan sistem informasi
-============================================
-
 1. Apa aplikasi/sistem yang mau dibuat ?
    sistem informasi akademik smk
 
