@@ -1,0 +1,2 @@
+<h6 class="text-muted">Halaman Nilai <i class="bi bi-file-pdf ps-2"></i></h6>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure at suscipit assumenda autem maiores necessitatibus ipsum, vel sapiente accusantium nisi, voluptatum doloremque sit mollitia nam!</p>

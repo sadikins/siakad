@@ -1,0 +1,2 @@
+<h4 class="text-muted">Dashboard <i class="bi bi-speedometer pe-2"></i></h4>
+<p>Lorem ipsum, dolor sit, amet consectetur adipisicing elit. Minus id quo, laboriosam velit a dolor modi pariatur, aspernatur omnis ea neque consequuntur, quam vero nihil.</p>
