@@ -1,6 +1,6 @@
 # Sistem Informasi Akademik Sekolah SMK
 
-============================================
+
 Pertanyaan Perancangan sistem informasi
 ============================================
 
